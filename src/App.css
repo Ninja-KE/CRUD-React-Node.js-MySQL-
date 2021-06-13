@@ -1,0 +1,12 @@
+.container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+button {
+    width: 6.5rem;
+}
+.card {
+    margin: 2rem;
+    padding: 2rem;
+}
